@@ -1,0 +1,29 @@
+header{
+    background-color: green;
+    height: 30px;
+    color: white;
+}
+#div1{background-color: gray;
+    width: 20%;
+   float: left;
+
+} 
+
+#div2{background-color: white;
+    float: left;
+    width: 65%;
+} 
+
+#div3{
+    background-color: cyan;
+    float: left;
+    width: 15%;
+    
+} 
+
+footer{
+    border: 1px black solid;
+    background-color: lightslategrey;
+    text-align: center;
+
+}

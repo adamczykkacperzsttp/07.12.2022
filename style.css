@@ -1,0 +1,65 @@
+body{
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    background-color: rgb(149, 255, 255);
+}
+
+.tytul{
+    background-color: green;
+    color: white;
+    border-bottom: 2px solid silver;
+    text-align: center;
+    width: 100%;
+}
+
+td{
+    color: black;
+    border: 1px solid black;
+    width: 20px;
+    text-align: center;
+}
+
+.podtytul{
+    background-color: green;
+    
+}
+
+.lekcje{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    color: green;
+    background-color: yellow;
+    text-align: center;
+    font-size: 40px;
+}
+
+.przerwa{
+    background-color: yellow;
+    padding-left: 100px;
+}
+
+header{
+    background-color: green;
+    padding: 20px;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+a{
+    color: greenyellow;
+}
+
+td, tr{
+    height: 20px;
+    width: 100px;
+}
+
+.zolte{
+    background-color: rgb(255, 252, 212);
+}
+
+.biale{
+    background-color: white;
+}
